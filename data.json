@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "nama" : "Fachran Nazarullah",
+        "email" : "fachran.nazarullah@gmail.com",
+        "telp" : "085214320808",
+        "foto" : "fcn.jpg",
+        "konten": "<div style='color:blue;font-size:20px;'>Konten HTML</div>"
+    },
+    {
+        "id": "2",
+        "nama": "Aisyah Humairah",
+        "email": "aisyah.humairah31@gmail.com",
+        "telp": "-",
+        "foto": "Aisyah.png",
+        "konten": "<div style='color:red;font-size:20px;'>Konten HTML</div>"
+    },
+    {
+        "id": "3",
+        "nama": "Khalif Aqmar Bilal",
+        "email": "-",
+        "telp": "-",
+        "foto": "Bilal.png",
+        "konten": "<div style='color:red;font-size:20px;'>Konten HTML</div>"
+    },
+    {
+        "id": "4",
+        "nama": "Maryam Abida Inara",
+        "email": "-",
+        "telp": "-",
+        "foto": "Bilal.png",
+        "konten": "<div style='color:red;font-size:20px;' class='huruf-custom'>Konten HTML</div>"
+    }
+]
